@@ -68,7 +68,7 @@ Bash / PowerShell –
 HTML/CSS/JavaScript (indirectly) –
       -Technologies underlying Kibana’s dashboards and visual interfaces. Not written directly, but essential to the platform.</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Lab Activities:</h2>
 
 <p align="center">
 Alerts  <br/>
